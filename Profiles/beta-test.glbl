@@ -12,11 +12,11 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>10</initValue>
-      <name>G_TimeOut</name>
+      <name>timeout_</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>3</initValue>
-      <name>G_ShortTimeOut</name>
+      <name>timeout_short</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
