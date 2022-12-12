@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SAP6-07</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c61063c9-6e84-4230-afb8-d0e6c0c0c836</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7197975d-baec-4de3-a68f-6fc4f7cd4856</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5a313c0-b097-4e05-824b-e38a0f8b6c0e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b9a6aa7-6f76-4dbd-82ce-e88ab172c2e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7197975d-baec-4de3-a68f-6fc4f7cd4856</id>
+      <masked>false</masked>
+      <name>First_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5a313c0-b097-4e05-824b-e38a0f8b6c0e</id>
+      <masked>false</masked>
+      <name>Last_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b9a6aa7-6f76-4dbd-82ce-e88ab172c2e7</id>
+      <masked>false</masked>
+      <name>Postal_Code</name>
+   </variable>
+</TestCaseEntity>

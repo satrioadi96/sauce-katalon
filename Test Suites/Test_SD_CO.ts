@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_SD_CO</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>46e63240-9015-423d-8e27-5ff69e99ed84</testSuiteGuid>
+   <testCaseLink>
+      <guid>11282263-1b97-4942-91ff-26c57be67284</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SatrioAdiPrawiro-Quiz6/SAP6-07</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>42294f01-0497-4ff7-89c3-2db158e8c3c4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Raw Data/CO</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7197975d-baec-4de3-a68f-6fc4f7cd4856</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c5a313c0-b097-4e05-824b-e38a0f8b6c0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5b9a6aa7-6f76-4dbd-82ce-e88ab172c2e7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
