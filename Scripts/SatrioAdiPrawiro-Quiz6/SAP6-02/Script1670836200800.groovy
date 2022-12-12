@@ -23,19 +23,20 @@ WebUI.navigateToUrl(GlobalVariable.url_testing)
 
 WebUI.setViewPortSize(1200, 700)
 
-for (def rowNum = 1;rowNum<= findTestData('Data Files/Raw Data/Login').getRowNumbers(); rowNum++ ) {
-	// Data Files/Raw Data/  // ObjCaptureManual/
-	WebUI.setText(findTestObject('null'),
-		findTestData('Data Files/Raw Data/Login').getValue(1,rowNum)
-		)
-		// Field
-	WebUI.setText(findTestObject('null'),
-		findTestData('Data Files/Raw Data/Login').getValue(2,rowNum)
-		)
+WebUI.click(findTestObject('Object Repository/SAP6-02/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac'))
+
+for (def rowNum = 1; rowNum <= findTestData('Data Files/Raw Data/Login').getRowNumbers(); rowNum++) {
 	
-	WebUI.click(findTestObject('null'))
+	WebUI.setText(findTestObject('Object Repository/SAP6-02/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac'),
+		 findTestData('Data Files/Raw Data/Login').getValue(1, rowNum))
 	
+	WebUI.setEncryptedText(findTestObject('Object Repository/SAP6-02/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9'),
+		findTestData('Data Files/Raw Data/Login').getValue(2, rowNum))
+	
+	WebUI.click(findTestObject('Object Repository/SAP6-02/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
 }
+
+
 
 WebUI.closeBrowser()
 

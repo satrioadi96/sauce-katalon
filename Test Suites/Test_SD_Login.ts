@@ -12,13 +12,13 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d1a9ff22-69df-45ac-b353-974758039ee1</testSuiteGuid>
    <testCaseLink>
-      <guid>8d8020d4-3615-44f5-99de-6932cdf6e3db</guid>
+      <guid>911cafce-82bf-47be-8bfe-7bd5fdb10d54</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SatrioAdiPrawiro-Quiz6/SAP6-02</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>23e68db5-da5a-484f-99ac-780464dd0da0</id>
+         <id>7946f97c-ebd3-41b6-8b2c-87ad64596e68</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,13 +27,13 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>23e68db5-da5a-484f-99ac-780464dd0da0</testDataLinkId>
+         <testDataLinkId>7946f97c-ebd3-41b6-8b2c-87ad64596e68</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Username</value>
          <variableId>3e52a56e-e422-47bd-8223-9f76918f35ba</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>23e68db5-da5a-484f-99ac-780464dd0da0</testDataLinkId>
+         <testDataLinkId>7946f97c-ebd3-41b6-8b2c-87ad64596e68</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Password</value>
          <variableId>8680fd18-95b9-4ce9-acb3-0a3284ede54f</variableId>
