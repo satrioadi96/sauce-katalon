@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>' https://www.saucedemo.com'</initValue>
+      <initValue>'https://www.saucedemo.com'</initValue>
       <name>url_testing</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
