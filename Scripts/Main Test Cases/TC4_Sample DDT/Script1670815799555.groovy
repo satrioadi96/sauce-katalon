@@ -23,7 +23,7 @@ WebUI.setViewPortSize(1366, 657)
 
 WebUI.click(findTestObject('null'))
 
-WebUI.waitForElementClickable(findTestObject('null'), GlobalVariable.G_ShortTimeOut)
+WebUI.waitForElementClickable(findTestObject('null'), GlobalVariable.timeout_short)
 
 for (def rowNum = 1;rowNum<= findTestData('Data Files/Raw Data/Login').getRowNumbers(); rowNum++ ) {
 	// Data Files/Raw Data/  // ObjCaptureManual/
