@@ -27,21 +27,21 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>42294f01-0497-4ff7-89c3-2db158e8c3c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>First_Name</value>
          <variableId>7197975d-baec-4de3-a68f-6fc4f7cd4856</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>42294f01-0497-4ff7-89c3-2db158e8c3c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Last_Name</value>
          <variableId>c5a313c0-b097-4e05-824b-e38a0f8b6c0e</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>42294f01-0497-4ff7-89c3-2db158e8c3c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Postal_Code</value>
          <variableId>5b9a6aa7-6f76-4dbd-82ce-e88ab172c2e7</variableId>
       </variableLink>
    </testCaseLink>
